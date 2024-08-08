@@ -71,12 +71,11 @@ defineProps({
                     <h1
                         class="text-4xl font-bold tracking-tight text-white-900 sm:text-6xl"
                     >
-                        Personalized Dietary Supplement Recommendations
+                        Calories & Recipes
                     </h1>
                     <p class="mt-6 text-lg leading-8 text-gray-600">
-                        Health Guard provides AI-driven, personalized dietary
-                        supplement advice tailored to your age, gender,
-                        allergies, and health goals.
+                        Get personalized calorie counts and delicious recipes
+                        tailored to your needs.
                     </p>
                     <div class="mt-10 flex items-center justify-center gap-x-6">
                         <Link
